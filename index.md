@@ -1,4 +1,4 @@
-[Home](./index)&nbsp;&nbsp;&nbsp;&nbsp;[Location](./location)
+[Home](./index)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Location](./location)
 
 ___
 
