@@ -4,4 +4,4 @@ ___
 
 # Location 
 
-<iframe width="800" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=0.20783901214599612%2C42.28317486037836%2C0.22149682044982913%2C42.290103917504474&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=17/42.28664/0.21467">View Larger Map</a></small>
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=0.21041393280029297%2C42.285024270918335%2C0.2191203832626343%2C42.288488793043264&amp;layer=mapnik&amp;marker=42.28675655579744%2C0.21476715803146362" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=42.28676&amp;mlon=0.21477#map=18/42.28676/0.21477&amp;layers=N">View Larger Map</a></small>
