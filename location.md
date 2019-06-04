@@ -1,3 +1,9 @@
+---
+layout: page
+title: Location
+permalink: /location
+---
+
 [Home](./index)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Location](./location)
 
 ___
