@@ -1,3 +1,8 @@
+---
+layout: page
+title: Home
+---
+
 [Home](./index)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Location](./location)
 
 ___
