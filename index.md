@@ -1,22 +1,15 @@
-[Home](./index)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Location](./location)
+[Home](./index)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Accomodation](./accomodation)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Location/Travel](./location)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Language survival](./language)
+
 
 ___
 
-# Test
+# Espa&ntilde;ol
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+# Deutsch
 
-* some
-* bullet 
-* points
+# English
 
-| Spanish        | German           
-| ------------- |-------------|
-| comida      | Essen |
-| comer      | essen  |
-| beber | trinken |
-| tomar algo | etwas zu sich nehmen |
-| vino | Wein |
-| vino tinto | Rotwein |
-| vino blanco | Weißwein |
 
