@@ -4,12 +4,14 @@
 [Language survival](./language)
 ___
 
-| Español        | Deutsch | English
-| ------------- |-------------|-------------|
+| Espa&ntilde;ol        | Deutsch | English
+| -------------|-------------|-------------|
 | comida      | Essen | food |
 | comer      | essen  | eat |
 | beber | trinken | drink |
-| tomar algo | etwas zu sich nehmen | take sth. (food and drinks)|
+| gracias | danke | thank you |
+| no gracias | nein danke | no thank you |
+| tomar algo | etwas zu sich nehmen (Essen/Getränk) | take sth. (food/drink)|
 | vino | Wein | wine |
 | vino tinto | Rotwein | red wine |
 | vino blanco | Weißwein | white wine |

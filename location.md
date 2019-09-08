@@ -32,13 +32,15 @@ Für jene, die ausserhalb Spaniens leben und fliegen müssen sind die nächstgel
 Ligüerre de Cinca befindet sich in den Vorpyrenäen ca 170 km von Saragossa entfernt. Von Saragossa nach Ligüerre kommt man in ca 2 Stunden mit dem Auto.
 
 Je nach Interesse werden wir einen Bustransfer von Saragossa nach Ligüerre anbieten, welcher am Freitag hinfährt und am Sonntag zurückfährt. Bitte lasst uns wissen, ob ihr daran interessiert seid.
+__Wichtig__: Falls genug Interesse besteht, wird der Bus spätestens um 14:00 Uhr von Saragossa aus losfahren.
+
 
 ## … mit dem Auto oder Bus nach Ligüerre de Cinca von Barcelona
 Ligüerre de Cinca befindet sich in den Vorpyrenäen ca 260 km von Barcelona entfernt. Von Barcelona nach Ligüerre kommt man in ca 2:45 Stunden mit dem Auto.
 
-Je nach Interesse werden wir einen Bustransfer von Barcelona nach Ligüerre anbieten, welcher am Freitag hinfährt und am Sonntag zurückfährt. Bitte lasst uns wissen, ob ihr daran interessiert seid.
+Je nach Interesse werden wir einen Bustransfer von Barcelona nach Ligüerre anbieten, welcher am Freitag hinfährt und am Sonntag zurückfährt. Bitte lasst uns wissen, ob ihr daran interessiert seid. __Wichtig__: Falls genug Interesse besteht, wird der Bus spätestens um 13:00 Uhr von Barcelona aus losfahren.
 
-__Fuer eine Ueberfahrt von Barcelona nach Saragossa gibt es mehrere Optionen:__
+__Für eine Überfahrt von Barcelona nach Saragossa gibt es mehrere Optionen:__
 
 * [Bus](https://www.alsa.es/)  - Es gibt jede Sunde einen Bus. Um zur Busstation im Norden zu kommen, ist es am Besten ein Taxi vom Flughafen zu nehmen.
 
@@ -58,13 +60,13 @@ For those that are living outside of Spain and need to fly, the nearest airports
 
 Ligüerre de Cinca is situated in the pre-Pirineus at 170 km distance from Zaragoza. Driving from Zaragoza to Ligüerre de Cinca takes 2 hours approx.
 
-Depending on the interest, we will organize a bus to go from Zaragoza to Ligüerre going on Friday and coming back on Sunday. Please let us know if you would like to join us.
+Depending on the interest, we will organize a bus to go from Zaragoza to Ligüerre going on Friday and coming back on Sunday. Please let us know if you would like to join us. __Important__: In case of enough interest, the bus will leave at 2pm latest from Zaragoza in Friday.
 
 ## … by car or bus to Ligüerre de Cinca from Barcelona
 
 Ligüerre de Cinca is situated in the pre-Pirineus at 260 km distance from Barcelona. Driving from Barcelona to Ligüerre de Cinca takes 2:45 hours approx.
 
-Depending on the interest, we will organize a bus to go from Barcelona to Ligüerre going on Friday and coming back on Sunday. Please let us know if you would like to join us.
+Depending on the interest, we will organize a bus to go from Barcelona to Ligüerre going on Friday and coming back on Sunday. Please let us know if you would like to join us. __Important__: In case of enough interest, the bus will leave at 2pm latest from Zaragoza in Friday.
 
 __If you want to get from Barcelona to Zaragoza, there are multiple options:__
 
