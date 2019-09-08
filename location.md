@@ -33,7 +33,7 @@ Dependiendo del interés, organizaremos un autobús para subir a Ligüerre el Vi
 Für jene, die ausserhalb Spaniens leben und fliegen müssen sind die nächstgelegenen Flughäfen
 
 * Saragossa ([Volotea](https://www.volotea.com/de): Muenchen --> Zaragoza)
-* Barcelona (Vueling, Lufhansa, etc. X --> Barcelona)
+* Barcelona (Vueling, Lufthansa, etc. X --> Barcelona)
 
 ## … mit dem Auto oder Bus nach Ligüerre de Cinca von Saragossa
 Ligüerre de Cinca befindet sich in den Vorpyrenäen ca 170 km von Saragossa entfernt. Von Saragossa nach Ligüerre kommt man in ca 2 Stunden mit dem Auto.
@@ -60,7 +60,7 @@ __Für eine Überfahrt von Barcelona nach Saragossa gibt es mehrere Optionen:__
 For those that are living outside of Spain and need to fly, the nearest airports are:
 
 * Zaragoza (Ryanair: London Stansted --> Zaragoza)
-* Barcelona (Vueling, Lufhansa, etc. X --> Barcelona)
+* Barcelona (Vueling, Lufthansa, etc. X --> Barcelona)
 
 
 ## … by car or bus to Ligüerre de Cinca from Zaragoza
