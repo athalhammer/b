@@ -18,6 +18,7 @@ ___
 LIGÜERRE RESORT<br>
 Recepción en: Ctra. A-138, Km. 28<br>
 22393 Ligüerre de Cinca (Huesca)<br>
+42°17'12.7"N 0°12'53.2"E<br>
 [http://www.liguerredecinca.com/](http://www.liguerredecinca.com/)
 
 # Lugar y desplazamiento
