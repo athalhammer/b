@@ -3,7 +3,6 @@
 [Location/Travel](./location)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [Language survival](./language)
 
-
 ___
 # 13 + 14 / 06 / 2020
 ___
