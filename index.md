@@ -4,7 +4,7 @@
 [Language survival](./language)
 
 ___
-## 13 + 14.06.2020
+### 13 + 14.06.2020
 ___
 
 # Nuestra boda
@@ -16,7 +16,7 @@ Si os apetece venir ya desde el viernes, nosotros ya estaremos allí y  habrá u
 
 
 # Unsere Hochzeit
-Liebe Familie und Freunde, wir freuen uns sehr, euch auf ein Wochenende einzuladen um unsere Hochzeit zu feiern! Die Hochzeit findet am 13. & 14. Juni 2020 im Resort Ligüerre de Cinca in Nordspanien, den Vorpyrenäen, statt. Die Zeremonie und das Hochzeitsessen ist am 13. Juni. Am 14. Juni, bevor wir uns verabschieden, werden wir uns nochmals gemeinsam zum Frühstück treffen.
+Liebe Familie und Freunde, wir freuen uns sehr, euch auf ein Wochenende einzuladen um unsere Hochzeit zu feiern! Die Hochzeit findet am 13. & 14. Juni 2020 im Resort Ligüerre de Cinca in Nordspanien, den Vorpyrenäen, statt. Die Zeremonie und das Hochzeitsessen sind am 13. Juni. Am 14. Juni, bevor wir uns verabschieden, werden wir uns nochmals gemeinsam zum Frühstück treffen.
 
 Falls ihr schon einen Tag vorher, am 12. Juni, ankommt, laden wir euch sehr herzlich zu einem Wilkommensgrillfest am gleichen Ort ein.
 
