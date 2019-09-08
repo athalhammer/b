@@ -14,7 +14,7 @@ ___
 
 Hemos reservado todos los alojamientos que hay en Ligüerre de Cinca para la boda. El complejo cuenta con 2 hoteles y 23 apartamentos. Conforme nos vayais confirmando asistencia, os reservaremos vuestra habitación. Así que no os tenéis que preocupar por nada de esto :-). 15 días antes de la boda os tendréis que registrar a través de la página oficial de Ligüerre utilizando un código que os daremos nosotros via whatsapp. Es necesario dar vuestros datos como si hicierais una reserva en un hotel normal. 
 
-*El coste del alojamiento del sábado (13th) al domingo (14th), corre por nuestra cuenta!* Para los que queráis venir desde el viernes, en Ligüerre nos hacen un precio especial que os facilitaremos. El desayuno del viernes al sábado está incluido en la tarifa.
+*El coste del alojamiento del sábado (13th) al domingo (14th), corre por nuestra cuenta!* Para los que queráis venir desde el viernes, en Ligüerre nos hacen un precio especial que os facilitaremos. El desayuno del viernes al sábado está incluido.
 
 __Información adicional que nos han dado en Ligüerre:__
 
@@ -25,7 +25,7 @@ __Información adicional que nos han dado en Ligüerre:__
 # Unterkunft in Ligüerre de Cinca
 Wir haben alle verfügbaren Unterkünfte in Ligüerre de Cinca fuer unsere Hochzeit vorgebucht. Es gibt zwei Hotels und  23 Apartments. Sobald ihr uns bestätigt, dass ihr zur Hochzeit kommt, werden wir euch ein Zimmer/Appartement reservieren, darum braucht ihr euch nicht kümmern :-). Fünfzehn Tage vor der Hochzeit müsst ihr euch auf der Webseite von Ligüerre de Cinca mit einem Code anmelden, den wir euch per WhatsApp schicken. Ihr müsst dann eure Daten eingeben, wie üblich bei Hotelbuchungen.
 
-*Die Übernachtungskosten von Samstag (13er) auf Sonntag (14er) werden von uns für euch übernommen!* Für jene, die bereits am Freitag ankommen werden wir euch den Preis mitteilen, den Ligüerre für uns anbietet. Frühstück ist im Preis inbegriffen.
+*Die Übernachtungskosten von Samstag (13er) auf Sonntag (14er) werden von uns für euch übernommen!* Für jene, die bereits am Freitag ankommen werden wir euch den Preis mitteilen, den Ligüerre für uns anbietet. Frühstück am Samstag ist dabei.
 
 __Weitere Informationen von Ligüerre:__
 
@@ -38,7 +38,7 @@ __Weitere Informationen von Ligüerre:__
 
 We have booked all the accommodation available in Ligüerre de Cinca for our wedding. There are 2 hotels and 23 apartments. As soon as you confirm your attendance to the wedding, we will reserve a room for you. So you don’t really need to worry about this :-). Fifteen days before the wedding, you will need to register yourself through the official website of Ligüerre using a code that we will send to you through whatsapp. You will need to provide all your data as if you would be booking a room at a normal hotel.
 
-*The accommodation costs from Saturday (13th) to Sunday (14th) is on us!* For those that would like to join us since Friday we will share with you the special price that Ligüerre is making for us for that day. Breakfast is included in that price.
+*The accommodation costs from Saturday (13th) to Sunday (14th) is on us!* For those that would like to join us since Friday we will share with you the special price that Ligüerre is making for us for that day. Breakfast on Saturday is included.
 
 __Additional Information provided by Ligüerre:__
 
