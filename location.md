@@ -49,7 +49,7 @@ Je nach Interesse werden wir einen Bustransfer von Barcelona nach Ligüerre anbi
 
 __Für eine Überfahrt von Barcelona nach Saragossa gibt es mehrere Optionen:__
 
-* [Bus](https://www.alsa.es/)  - Es gibt jede Sunde einen Bus. Um zur Busstation im Norden zu kommen, ist es am Besten ein Taxi vom Flughafen zu nehmen.
+* [Bus](https://www.alsa.es/)  - Es gibt jede Stunde einen Bus. Um zur Busstation im Norden zu kommen, ist es am Besten ein Taxi vom Flughafen zu nehmen.
 
 * [AVE](http://www.renfe.com/) - Tickets gibt es normalerweise ab zwei Monate vorher, und abhängig von der Reisezeit gibt es auch Sparpreise. Das AVE Ticket enthält auch ein Ticket um vom Flughafen zur Station Barcelona SANS zu kommen.
 
