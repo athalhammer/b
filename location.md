@@ -1,12 +1,17 @@
-[Home](./index)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[Accomodation](./accomodation)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[Location/Travel](./location)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Home](./index)
+
+[Location/Travel](./location)
+
+[Accomodation](./accomodation)
+
 [Language survival](./language)
 
 ___
+### 13 + 14.06.2020 - Ligüerre de Cinca
+___
 
 
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=0.21041393280029297%2C42.285024270918335%2C0.2191203832626343%2C42.288488793043264&amp;layer=mapnik&amp;marker=42.28675655579744%2C0.21476715803146362" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=42.28676&amp;mlon=0.21477#map=18/42.28676/0.21477&amp;layers=N">View Larger Map</a></small>
+<iframe width="300" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=0.21041393280029297%2C42.285024270918335%2C0.2191203832626343%2C42.288488793043264&amp;layer=mapnik&amp;marker=42.28675655579744%2C0.21476715803146362" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=42.28676&amp;mlon=0.21477#map=18/42.28676/0.21477&amp;layers=N">View Larger Map</a></small>
 
 # Dirección / Adresse / Address
 

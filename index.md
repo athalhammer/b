@@ -1,10 +1,13 @@
-[Home](./index)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[Accomodation](./accomodation)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[Location/Travel](./location)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Home](./index)
+
+[Location/Travel](./location)
+
+[Accomodation](./accomodation)
+
 [Language survival](./language)
 
 ___
-### 13 + 14.06.2020
+### 13 + 14.06.2020 - Ligüerre de Cinca
 ___
 
 # Nuestra boda
