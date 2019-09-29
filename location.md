@@ -51,7 +51,7 @@ __Für eine Überfahrt von Barcelona nach Saragossa gibt es mehrere Optionen:__
 
 * [Bus](https://www.alsa.es/)  - Es gibt jede Stunde einen Bus. Um zur Busstation im Norden zu kommen, ist es am Besten ein Taxi vom Flughafen zu nehmen.
 
-* [AVE](http://www.renfe.com/) - Tickets gibt es normalerweise ab zwei Monate vorher, und abhängig von der Reisezeit gibt es auch Sparpreise. Das AVE Ticket enthält auch ein Ticket um vom Flughafen zur Station Barcelona SANS zu kommen.
+* [AVE](http://www.renfe.com/) - Tickets gibt es normalerweise ab zwei Monate vorher, und abhängig von der Reisezeit gibt es auch Sparpreise. Das AVE Ticket enthält auch ein Ticket um vom Flughafen zur Station Barcelona SANTS zu kommen.
 
 # Location and travel
 
@@ -78,4 +78,4 @@ Depending on the interest, we will organize a bus to go from Barcelona to Ligüe
 __If you want to get from Barcelona to Zaragoza, there are multiple options:__
 
 * [Bus](https://www.alsa.es/) - There is almost 1 bus every hour. To go to the Nord Bus Station, the best option is to take a taxi from the airport.
-* [AVE](http://www.renfe.com/) - Tickets are available usually 2 months before the date and depending on the time, you can find as well reduced prices. Note that the ticket from the AVE includes as well the ticket for travelling from the airport to SANS station.
+* [AVE](http://www.renfe.com/) - Tickets are available usually 2 months before the date and depending on the time, you can find as well reduced prices. Note that the ticket from the AVE includes as well the ticket for travelling from the airport to SANTS station.
