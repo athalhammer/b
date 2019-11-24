@@ -10,6 +10,8 @@ ___
 ### 13 + 14.06.2020 - Ligüerre de Cinca
 ___
 
+<img src="boda.jpg" width="500"/>
+
 # Nuestra boda
 Querida familia y amigos, estamos muy contentos de invitaros a pasar un fin de semana con nosotros para celebrar nuestra boda! La boda se celebrará los días 13 y 14 de Junio en Ligüerre de Cinca, un pueblecito del pre-pirineo Aragonés. La ceremonia y celebración de la boda será el 13 de Junio, sábado. El 14 domingo nos volveremos a juntar todos para desayunar antes de despedirnos.
 
