@@ -47,11 +47,20 @@ Ligüerre de Cinca befindet sich in den Vorpyrenäen ca 260 km von Barcelona ent
 
 Je nach Interesse werden wir einen Bustransfer von Barcelona nach Ligüerre anbieten, welcher am Freitag hinfährt und am Sonntag zurückfährt. Bitte lasst uns wissen, ob ihr daran interessiert seid. __Wichtig__: Falls genug Interesse besteht, wird der Bus spätestens um 13:00 Uhr von Barcelona aus losfahren.
 
+## Sehenswürdigkeiten
+Da wir uns schon in den Pyrenäen befinden, gibt es hier noch ein paar Tipps:
+
+* [Nationalpark Ordesa](https://de.wikipedia.org/wiki/Nationalpark_Ordesa_y_Monte_Perdido): Eine besonderes Tal in den Pyrenäen an der Grenze zu Frankreich. Es verläuft in west-ost Richtung und ist deshalb durch Winderosion als Canyon besonders gekennzeichnet. Zum Übernachten bietet sich das Dorf [Torla](https://de.wikipedia.org/wiki/Torla-Ordesa) mit mehreren Campingplätzen und Hotels an. In das Tal kommt man von dort mit einem Bus (weiterer Verkehr ist im Tal nicht erlaubt). Im Tal kann man ausgiebig wandern. Nach Ligüerre sind es ca. 65km.
+* [Saragossa](https://de.wikipedia.org/wiki/Saragossa) (spanisch Zaragoza): Die Heimatstadt von Nelia mit zahlreichen Sehenswürdigkeiten, zum Beispiel die [Basílica del Pilar](https://de.wikipedia.org/wiki/Bas%C3%ADlica_del_Pilar).
+* [Aínsa](https://de.wikipedia.org/wiki/A%C3%ADnsa-Sobrarbe): Ein kleines Dörfchen mit einem tollen Dorfplatz, einer Burgruine sowie diversen Campingmöglichkeiten im Umkreis. Das Dorf ist nur ca. 20km von Ligüerre entfernt.
+* [Jaca](https://de.wikipedia.org/wiki/Jaca): Ehemals Hauptsitz des Königreichs Aragón.
+
 __Für eine Überfahrt von Barcelona nach Saragossa gibt es mehrere Optionen:__
 
 * [Bus](https://www.alsa.es/)  - Es gibt jede Stunde einen Bus. Um zur Busstation im Norden zu kommen, ist es am Besten ein Taxi vom Flughafen zu nehmen.
 
 * [AVE](http://www.renfe.com/) - Tickets gibt es normalerweise ab zwei Monate vorher, und abhängig von der Reisezeit gibt es auch Sparpreise. Das AVE Ticket enthält auch ein Ticket um vom Flughafen zur Station Barcelona SANTS zu kommen.
+
 
 # Location and travel
 
